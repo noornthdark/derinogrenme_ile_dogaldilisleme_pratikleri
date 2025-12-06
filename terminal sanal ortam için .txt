@@ -1,0 +1,4 @@
+PS C:\Users\uygul\OneDrive\Desktop\project_1> python -m venv venv 
+PS C:\Users\uygul\OneDrive\Desktop\project_1> .\venv\Scripts\activate 
+PS C:\Users\uygul\OneDrive\Desktop\project_1> set-executionpolicy -scope currentuser remotesigned (kapalı ise dosya açma işlemi için gerekli)
+PS C:\Users\uygul\OneDrive\Desktop\project_1> .\venv\Scripts\activate
