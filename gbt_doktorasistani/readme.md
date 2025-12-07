@@ -1,0 +1,1 @@
+uvicorn doctor_assistant_api:app --reload
